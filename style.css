@@ -78,6 +78,7 @@ p.fightatronmore {
   font-size: x-large;
 }
 
-.Professional_Picture {
+#Professional_Picture {
+  display: flex;
   justify-content: center;
 }
